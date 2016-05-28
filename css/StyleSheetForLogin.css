@@ -1,0 +1,125 @@
+﻿body {
+}
+#index_login {
+    width:1366px;
+    height:768px;
+    margin:0px auto;
+    position:absolute;
+    background-image:url(../image/sign_in/welcome_back.png);
+}
+.horizontal_top1{
+    width:1000px;
+    height:10px;
+    margin:0px 0px;
+    padding:0px 0px;
+}
+.body_leftforlogin{
+    height:455px;
+    width:200px;
+    margin:0px 0px;
+}
+.body_rightforlogin_top{
+    height:150px;
+    width:800px;
+    margin:0px 0px;
+}
+.body_rightforlogin_midium{
+    height:220px;
+    width:800px;
+    margin:0px 0px;
+}
+.body_rightforlogin_last{
+    height:130px;
+    width:800px;
+    margin:0px 0px;
+}
+.body_right_login{
+    height:220px;
+    width:400px;
+    margin:0px 0px 0px 85px;
+    background-image:url(../image/sign_in/hylinearea.png);
+}
+.login_top{
+    height:28px;
+    width:400px;
+
+}
+.login_contain{
+    height:125px;
+    width:400px;
+}
+.login_btn{
+    height:45px;
+    width:400px;
+}
+.login_last{
+    height:22px;
+    width:400px;
+}
+.login_btn_pic{
+     height:38px;
+     width:209px;
+     margin:0px auto;
+ }
+.login_contain_left{
+     width:30px;
+     height:125px;
+     margin:0px 0px;
+     float:left;
+ }
+.login_contain_right{
+     width:370px;
+     height:125px;
+     margin:0px 0px;
+     float:right;
+ }
+.login_contain_right_userpic{
+     width:100px;
+     height:100px;
+     margin:0px 0px;
+     float:left;
+     background-image:url(../image/sign_in/user_pic.png);
+ }
+.login_contain_right_info{
+     width:270px;
+     height:100px;
+     margin:0px 0px;
+     float:right;
+ }
+.login_contain_right_username{
+     width:270px;
+     height:43px;
+     margin:0px 0px;
+     font-size:8px;
+     float:right;
+ }
+.login_contain_right_password{
+     width:270px;
+     height:43px;
+     margin:0px 0px;
+     font-size:8px;
+     float:right;
+ }
+ .login_contain_right_set{
+     width:270px;
+     height:14px;
+     margin:0px 0px;
+     font-size:8px;
+     float:right;
+ }
+.lable_font{
+    font-size:14px;
+    font-family:'Microsoft YaHei UI';
+    color:white;
+}
+#Checkbox1,Checkbox2{
+     margin:3px 0px 0px 20px;
+}
+.hrefstyle{
+    width:100px;
+    height:43px;
+    float:right;
+    font-family:'Microsoft YaHei UI';
+    padding:3px 0px 0px 0px;
+    text-align:center;
+}

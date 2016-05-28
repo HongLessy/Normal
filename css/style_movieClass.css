@@ -1,0 +1,9 @@
+﻿body {
+}
+.movieContain{
+    height:187.5px;
+    width:250px;
+    background-image:url(../image/movieClass/movieContain.png);
+    float:left;
+    margin:0px 5px 0px 5px;
+}

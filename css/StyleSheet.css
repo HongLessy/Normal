@@ -1,0 +1,192 @@
+﻿body {
+}
+#index {
+    width: 1366px;
+    height: 768px;
+    margin: 0px auto;
+    position: absolute;
+    background-image:url(../image/index/background.png);
+}
+#header {
+    width:1000px;
+    height:40px;
+    margin:65px 0px 0px 185px;
+    padding:0px 0px;
+}
+#body{
+    width:1000px;
+    height:510px;
+    margin:0px 185px;
+}
+#footer{
+    width:1000px;
+    height:55px;
+    margin:0px 185px;
+    position:absolute;
+}
+.body_welcome{
+    width:200px;
+    height:200px;
+    background-image:url(../image/index/200X200.png);
+    position:absolute;
+}
+.welcome{
+    font-family:'Microsoft YaHei UI';
+    font-size:18px;
+    color:white;
+    margin:30px 0px 0px 30px;
+}
+.login_btn_signup
+{
+    margin:20px 0px 0px 50px;
+}
+.head_logo{
+    width:400px;
+    height:40px;
+    margin:0px 0px;
+    padding:0px 0px;
+    float:left;
+}
+.head_position_search{
+    width:300px;
+    height:40px;
+    margin:0px 0px;
+    float:left;
+}
+.horizontal_top{
+    width:1000px;
+    height:10px;
+    margin:0px 0px;
+    padding:0px 0px;
+    background-image:url(../image/index/长直线10px.png);
+}
+.body_left{
+    width:200px;
+    height:510px;
+    float:left;
+}
+.body_right{
+    width:800px;
+    height:510px;
+    float:right;
+}
+.body_weather{
+    width:200px;
+    height:45px;
+    font-family:'Microsoft YaHei UI';
+    color:white;
+    margin:0px 0px;
+}
+.body_login{
+    width:200px;
+    height:200px;
+    background-image:url(../image/index/200X200.png);
+}
+.body_usercenter{
+    width:200px;
+    height:255px;
+    background-image:url(../image/index/个人中心200x255.png);
+    margin:200px 0px 0px 0px;
+    position:absolute;
+}
+.body_ucenter_draw_1{
+    width:180px;
+    height:31px;
+    margin:40px 17px 0px;
+}
+.body_ucenter_draw_2{
+    width:180px;
+    height:31px;
+    margin:10px 17px;
+}
+span#Clock{
+    font-size:8px;
+}
+span.position{
+    margin:25px 0px ;
+    font-size:14px;
+    color:white;
+    font-family:'Microsoft YaHei UI';
+    display:inline-block;
+}
+span.type{
+    font-size:20px;
+    color:white;
+    font-family:'Microsoft YaHei UI';
+    padding:0px 15px 0px 15px;
+}
+span.nav{
+    font-size:14px;
+    color:white;
+    font-family:'Microsoft YaHei UI';
+    padding-left:20px;
+}
+.body_title{
+    width:800px;
+    height:125px;
+}
+.body_contain{
+    width:800px;
+    height:375px;
+}
+.body_title_nav{
+    width:800px;
+    height:65px;
+    margin:0px 0px;
+    font-family:'Microsoft YaHei UI';
+    font-size:15px;
+    color:white;
+}
+.body_title_typenav{
+    width:800px;
+    height:30px;
+}
+.body_contain_left{
+    width:580px;
+    height:375px;
+    float:left;
+}
+.body_contain_right{
+    width:220px;
+    height:375px;
+    float:right;
+}
+.body_contain_main {
+    width:580px;
+    height:260px;
+    background-image:url(../image/index/580-225.png);
+}
+.body_contain_second{
+    width:580px;
+    height:115px;
+}
+.body_contain_second_area{
+    width:290px;
+    height:115px;
+    background-image:url(../image/index/290-115.png);
+    float:right;
+}
+.body_contain_right_hot{
+    width:220px;
+    height:260px;
+    background-image:url(../image/index/260-220.png);
+}
+.body_contain_right_info{
+    width:220px;
+    height:115px;
+    background-image:url(../image/index/220-115.png);
+}
+.footer_left{
+    float:left;
+    width:200px;
+    height:55px;
+    background-image:url(../image/index/e-mail.png);
+    margin:5px 0px 0px 0px;
+}
+.footer_right{
+    float:right;
+    width:800px;
+    height:55px;
+    background-image:url(../image/index/800-55.png);
+    margin:5px 0px 0px 0px;
+}
