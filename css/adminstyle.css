@@ -1,0 +1,192 @@
+﻿body {
+}
+#indexforadmin{
+    width: 1366px;
+    height: 768px;
+    margin: 0px auto;
+    position: absolute;
+    background-image:url(../image/admin/background.png);
+}
+.welcomefontlink a:link{
+    text-decoration:none;
+    color:white;
+    font-size:12px;
+    font-family:'Microsoft YaHei UI';
+}
+
+.welcomefontlink  a:visited{
+     text-decoration:none;
+     color:white;
+     font-size:12px;
+     font-family:'Microsoft YaHei UI';
+ }
+.welcomefontlink a:hover{
+     text-decoration:none;
+     color:#00ffff;
+     font-size:12px;
+     font-family:'Microsoft YaHei UI';
+}
+.welcomefontlink a:active{
+     text-decoration:none;
+     color:#00ffff;
+     font-size:12px;
+     font-family:'Microsoft YaHei UI';
+}
+
+.adminnav{
+    width:800px;
+    height:45px;
+}
+.adminmenu{
+    width:800px;
+    height:55px;
+}
+.admincontent{
+    width:800px;
+    height:400px;
+}
+.adminmenu_pic{
+    width:55px;
+    height:55px;
+    float:left;
+    background-image:url(../image/admin/headportrait.png);
+}
+.adminmenu_nav{
+    width:100px;
+    height:38px;
+    float:left;
+    text-align:center;
+    font-family:'Microsoft YaHei UI';
+    font-size:16px;
+    padding:14px 0px 0px 0px;
+    color:white;
+}
+
+div.adminmenu_nav a:link{
+    text-decoration:none;
+    color:white;
+    font-size:16px;
+    font-family:'Microsoft YaHei UI';
+}
+div.adminmenu_nav a:visited{
+    text-decoration:none;
+    color:white;
+    font-size:16px;
+    font-family:'Microsoft YaHei UI';
+}
+div.adminmenu_nav a:hover{
+    text-decoration:none;
+    color:#00ffff;
+    font-size:16px;
+    font-family:'Microsoft YaHei UI';
+}
+div.adminmenu_nav a:active{
+    text-decoration:none;
+    color:#00ffff;
+    font-size:16px;
+    font-family:'Microsoft YaHei UI';
+}
+
+.admincontent_left{
+    height:400px;
+    width:130px;
+    float:left;
+    margin:0px;
+}
+.admincontent_content{
+    width:420px;    
+    height:400px;
+    float:left;
+    margin:0px;
+}
+.admincontent_right{
+    width:250px;
+    height:400px;
+    margin:0px;
+    float:right;
+}
+.admincontent_basic_nav
+{
+    width:420px;
+    height:80px;
+    margin:0px;
+}
+.table{
+    width:420px;
+    height:320px;
+    float:left;
+    color:white;
+    font-family:'Microsoft YaHei UI';
+    font-size:14px;
+}
+/*.block{
+    width:130px;
+    height:320px;
+    float:right;
+}*/
+.basic{
+    margin:60px 0px 0px 0px;
+    font-size:16px;
+    color:white;
+    font-family:'Microsoft YaHei UI';
+    display:inline-block;
+}
+.table th{
+    height:40px;
+    width:230px;
+}
+.adminright_user
+{
+    width:250px;
+    height:200px;
+    background:url(../image/admin/box-2.png) no-repeat;
+    padding:55px 0px 0px 65px;
+    float:left;
+}
+.adminright_control{
+    width:100px;
+    height:50px;
+    margin:0px;
+}
+.admincolect_placeholder{
+    height:25px;
+    width:550px;
+    margin:0px;
+    float:left;
+}
+.admincollect{
+    width:550px;
+    height:350px;
+    margin:0px;
+    float:left;
+    overflow:scroll;
+}
+.admincollect_table{
+    width:530px;
+    height:350px;
+}
+
+.admincollecttable_title{
+    width:410px;
+    height:25px;
+    font-family:'Microsoft YaHei UI';
+    color:white;
+    text-align:center;
+    font-size:14px;
+}
+.admincollecttable_nav{
+    width:530px;
+    height:25px;
+    font-family:'Microsoft YaHei UI';
+    color:white;
+    text-align:center;
+    font-size:14px;
+}
+.admincollecttable_type{
+    width:120px;
+    height:25px;
+    font-family:'Microsoft YaHei UI';
+    color:white;
+    font-size:14px;
+    text-align:center;
+}

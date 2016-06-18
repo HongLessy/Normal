@@ -109,7 +109,7 @@
                 </div>
                 <div class="body_usercenter">
                     <div class="body_ucenter_draw_1">
-                        <img src="image/index/我的收藏.png" />
+                        <a href="admin/AdminCollect.aspx"><img src="image/index/我的收藏.png" /></a>
                     </div>
                     <div class="body_ucenter_draw_2">
                         <img src="image/index/资源共享.png" />
