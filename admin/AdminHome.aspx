@@ -43,7 +43,7 @@
                         font-family:'Microsoft YaHei UI';
                     }
                 </style>
-                <span><a href="../AdminCollect.aspx">个人中心</a></span>
+                <span><a href="../index.aspx">首页></a><a href="../AdminCollect.aspx">个人中心</a></span>
             </div>
             <div class="head_position_search"></div>
         </div>
@@ -118,7 +118,7 @@
                         <img src="../image/index/论坛立贴.png" />
                     </div>
                     <div class="body_ucenter_draw_2">
-                        <img src="../image/index/历史浏览.png" />
+                       <a href="../AdminHistory.aspx"><img src="../image/index/历史浏览.png" /></a> 
                     </div>
                     <div class="body_ucenter_draw_2">
                         <img src="../image/index/纠错建议.png" />
@@ -127,9 +127,9 @@
             </div>
             <div class="body_right">
                 <div class="adminnav">
-                     <a href="index.aspx"><span class="type">首页</span></a>
+                     <a href="../index.aspx"><span class="type">首页</span></a>
                      <span><img src="../image/index/短竖直线.png" /></span>
-                     <a href="AdminHome.aspx"><span class="type">个人中心</span></a>
+                     <a href="../AdminHome.aspx"><span class="type">个人中心</span></a>
                      <span><img src="../image/index/短竖直线.png" /></span>
                      <a href="#"><span class="type">消息中心</span></a>
                      <span><img src="../image/index/短竖直线.png" /></span>
@@ -137,10 +137,10 @@
                 <div class="adminmenu">
                     <div class="adminmenu_pic"></div>   
                     <div class="adminmenu_nav"></div>             
-                    <div class="adminmenu_nav">我的主页</div>
+                    <div class="adminmenu_nav"><a href="../admin/AdminHome.aspx">我的主页</a></div>
                     <div class="adminmenu_nav">我的分享</div>
-                    <div class="adminmenu_nav">我的收藏</div>
-                    <div class="adminmenu_nav">历史浏览</div>
+                    <div class="adminmenu_nav"><a href="../admin/AdminCollect.aspx">我的收藏</a></div>
+                    <div class="adminmenu_nav"><a href="../admin/AdminHistory.aspx">历史浏览</a></div>
                 </div>
                 <div class="admincontent">    
                     <div class="admincontent_left"></div>           

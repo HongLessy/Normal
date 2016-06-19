@@ -39,7 +39,7 @@
             <div class="head_logo"><img src="../image/index/标题.png" /></div>
             <div class="head_position_search">
                 <span class="position">当前位置></span>               
-                <span style="font-size:12px;"><a href="../index.aspx">首页></a><a href="../admin/AdminCollect.aspx">我的收藏</a></span>
+                <span style="font-size:12px;"><a href="../index.aspx">首页></a> <a href="../admin/AdminHistory.aspx">历史浏览</a></span>
             </div>
             <div class="head_position_search"></div>
         </div>
@@ -108,7 +108,7 @@
                         <a href="../admin/AdminCollect.aspx"><img src="../image/index/我的收藏.png" /></a>
                     </div>
                     <div class="body_ucenter_draw_2">
-                        <img src="../image/index/资源共享.png" />
+                       <a href="AdminHome.aspx"> <img src="../image/index/资源共享.png" /></a>
                     </div>
                     <div class="body_ucenter_draw_2">
                         <img src="../image/index/论坛立贴.png" />
@@ -145,7 +145,7 @@
                                 <td class="admincollecttable_title">标题</td>
                                 <td class="admincollecttable_type">类型</td>
                                 <td class="admincollecttable_type">作者</td>
-                                <td class="admincollecttable_type">点击/下载量</td>
+                                <td class="admincollecttable_type">浏览时间</td>
                             </tr>
                         </table>          
                     <div class="admincollect">                       
