@@ -189,11 +189,12 @@
                     <div class="signup_contain">
                         <input type="date" style="margin:10px 0px 0px 5px;"/>
                     </div>
-                    <div class="signup_tips"></div>
+                    <div class="signup_tips">
+                      </div>
                 </div>
                 <div class="signup_all">                  
                       <div class="sim-button button6">
-                        <span onclick="sign_up">点我注册</span>
+                        <asp:Button ID="Button1" runat="server" Text="Button" OnClick="Button1_Click" Height="45px" Width="474px" />
                       </div>                  
                 </div>              
             </div>

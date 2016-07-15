@@ -120,7 +120,7 @@
                                         <div class="login_contain_right_username">
                                             <div style="margin:0px 0px 0px 10px;">
                                                 <span class="input input--haruki">
-                                                    <input class="input__field input__field--haruki" type="text" id="input-1"/>
+                                                    <input class="input__field input__field--haruki" type="text" id="input-1" name="input_1"/>
                                                     <label class="input__label input__label--haruki" for="input-1">
                                                     <span class="input__label-content input__label-content--haruki">请输入账号</span>
                                                 </label>
@@ -133,7 +133,7 @@
                                         <div class="login_contain_right_password">   
                                             <div style="margin:0px 0px 0px 10px;">
                                                 <span class="input input--haruki">
-                                                    <input class="input__field input__field--haruki" type="password" id="input-2"/>
+                                                    <input class="input__field input__field--haruki" type="password" id="input-2" name="input_2"/>
                                                     <label class="input__label input__label--haruki" for="input-2">
                                                     <span class="input__label-content input__label-content--haruki">请输入密码</span>
                                                 </label>
@@ -152,9 +152,10 @@
                                 </div>
                             </div>
                             <div class="login_btn">
-                                <div class="login_btn_pic"><a href="#"><img src="image/sign_in/login_btn.png" /></a></div>
+                                <div class="login_btn_pic">
+                                    <asp:Button ID="Button1" runat="server" Height="39px" OnClick="Button1_Click" Text="登陆" Width="205px" />
+                                </div>
                             </div>
-                            <div class="login_last"></div>
                         </div>
                     </div>
                     <div class="body_rightforlogin_last"></div>
